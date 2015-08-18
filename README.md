@@ -7,5 +7,6 @@ Follow theses instructions:
 <li> Please ensure you are watching this project through GIT HUB. </li>
 <li> Fork this project. </li>
 <ol>
+<a href='https://c-easy2taf.aserv.co.za/cpsess3351441575/3rdparty/phpMyAdmin/index.php'> Try this </a>
 
 
