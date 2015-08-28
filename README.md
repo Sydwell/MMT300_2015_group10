@@ -20,4 +20,12 @@ Password :  -----
 <br />
 Port : 21
 
+<h1>DATABASE ACCESS FROM ANY PLATFORM</h1>
+<ul>
+<li>host: mmedia.cput.ac.za</li>
+<li>username: xuser1</li>
+<li>password: group1</li>
+<li>database: xgroup1</li>
+</ul
+
 
